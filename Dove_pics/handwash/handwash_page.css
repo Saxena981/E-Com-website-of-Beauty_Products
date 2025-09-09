@@ -1,0 +1,182 @@
+
+#body{
+    padding: 0px;
+    margin: 0;
+    position: relative;
+}
+
+
+#main_box{
+  
+}
+
+
+#handwash_details{
+    width: 50%;
+    height: 500px;
+    padding: 0;
+    margin: 0;
+}
+
+
+#handwash_pic{
+    width: 10%;
+    height: auto;
+    padding: 5px;
+}
+
+
+#large_pic{
+    width: 34%;
+    height: 570px;
+    background-color:antiquewhite;
+    position: absolute;
+    top: 33px;
+    left: 120px; 
+}
+
+
+.k3{
+    color: black;
+    padding: 0;
+    font-weight: bold;
+}
+
+
+.line2{
+    color: red;
+}
+
+
+#description{
+    float: right;
+    margin-top: -500px;
+    padding: 2;
+    margin-right: 5px;
+}
+
+
+#specification{
+    padding: 0;
+    margin: 0;
+    line-height: 25px;
+    font-size: 18px;
+    font-family: Arial Narrow; 
+}
+
+#price_details{
+    font-size: 15px;
+      
+}
+
+
+#Stock_in{
+    color: green;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+
+#discount{
+    color: red;
+    font-size: 28px;
+     
+}
+
+
+#price{
+    font-size: 32px;
+    
+}
+
+
+#qty{
+    width: 130px;
+    height: 30px;
+    background-color: azure;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 15px;
+}
+
+
+#addcart{
+    width: 150px;
+    height: 30px;
+    background-color: gold;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+
+#buy_now{
+    width: 150px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+
+#other_details{
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 25px;
+
+}
+    
+
+#before_price{
+    font-size: 20px;
+    text-decoration: line-through;
+    margin-left: -45px;
+
+}
+
+
+#offer{
+    font-size: 20px;
+    color: black;
+}
+
+
+#offers{
+    font-size: 15px;
+    color: green;
+}
+
+
+#item_discription_box{
+    float: left;
+    width: auto;
+    height: auto;
+    padding: 15px;
+}
+
+
+#item_text_discription{
+    font-size: 15px;
+    font-family: sans-serif;
+    line-height: 25px;
+    padding: 10px;
+    margin: 0;   
+}
+
+
+.heading{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-left: -300px;
+}
+
+
+.pic_adds{
+    width:970px; 
+    height:300 px;
+    margin: 300px;
+    line-height: 80px;
+    
+}
+
+
