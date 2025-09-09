@@ -1,0 +1,145 @@
+/*Start sign_up_section codding*/
+
+#signup_body
+{
+ /* background-image: url(../pics/beauty.jpg);*/
+    background-size:100% 720px;
+    padding:0px;
+    margin:0px;
+    background-attachment: fixed;
+}
+
+
+#sign_up_nav
+{
+  width:100%;
+  height:100px;
+  background-color:rgba(0,0,0,0.6);
+  float:left;
+  box-sizing:border-box;
+  padding: 5px;
+}
+
+
+#domain_name
+{
+  color: white;
+  font-size: 48px;
+  text-decoration: underline;
+  margin-top: 5px;
+}
+
+
+a{
+  font-size: 20px;
+  float: right;
+  margin-top: -18px;
+  padding:2px 8px ;
+  background-color:navajowhite ;
+  color: black;
+  border-radius: 3px;
+  margin-right: 5px;
+
+}
+
+
+#main_box
+{
+  width: 25%;
+  height: auto;
+  padding: 20px;
+  box-shadow: 0px 0px 8px white;
+  box-sizing: border-box;
+}
+
+
+.form_box{display:block; }
+
+
+#headertitle,#login_title
+{
+  color: blue;
+  font-family: sans-serif;
+}
+
+
+#signup_fieldset
+{
+   width: 100%;
+   height: 700px;
+   border-width: 3px;
+   border-style: solid;
+   border-color: green;
+   box-sizing: border-box;
+   background-color:rgba(0,0,0,0.4); 
+}
+
+
+#name,#number,#gender,#create_username,#create_password,#email,#password,#username
+{
+  width:100%; 
+  padding: 2px;
+  padding-left: 5px;
+  font-size: 15px;  
+  background-color: white; 
+  border-color: white; 
+  box-sizing: border-box;
+  margin-bottom: 5px;
+  border-radius: 20px;
+  font-family: sans-serif;
+}
+
+
+#signup_frm,#login_frm
+{
+  color: black;
+  font-weight:bold;
+  font-size: 20px;
+  text-align: start;
+}
+
+
+#user_login_box
+{
+  display: none;
+}
+
+
+#signing_p,#loginhere
+{
+  text-align: right;
+  color:navajowhite;
+  font-size: 20px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+
+#signing_p,#loginhere:hover
+{
+  color:yellow;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+
+#btn{
+  width: 60px;
+  height: 22px;
+  color: green;
+  font-size: 15px;
+}
+
+
+#btn2{
+  width: 60px;
+  height: 22px;
+  color: red;
+  font-size: 15px;
+}
+
+
+#para{
+  color: blue;
+  font-size: 15px;
+}

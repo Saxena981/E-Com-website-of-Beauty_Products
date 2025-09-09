@@ -1,0 +1,137 @@
+
+/*Start Products_ page codding*/
+
+ #loginbody /* Background image codding */
+{
+  background-image: url(../pics/beauty.jpg);
+    background-size:100% 730px;
+    padding:0px;
+    margin:0px;
+    background-attachment: fixed;
+}
+
+
+
+#product_nav /*Nav icons codding*/
+{
+  margin: 0;
+  padding: 0px;
+  width:100%;
+  height:170px;
+  background-color:rgba(0,0,0,0.6);
+  float:left;
+  box-sizing:border-box;
+   margin-top: -25px;
+}
+
+
+#domain_name
+{
+  font-size: 45px;
+  color: white;
+  text-decoration: underline;
+}
+
+
+
+#product_section
+{
+ width:100%;
+ height:600px;
+ border-width: 2px;
+ border-style: solid;
+ float: left;
+ box-sizing: border-box;
+
+}
+
+
+
+#brands_logo
+{
+width:100%px;
+height: 200px;
+background-color:rgba(255,255,255,0.6);
+float: leftt;
+box-sizing: border-box;
+}
+
+
+#brand_heading
+{
+  text-align: center;
+  margin-top: 0px;
+  padding: 0px;
+  font-size: 45px;
+  font-weight:strong;
+
+}
+
+#product_menu
+{
+    width:400px;
+    height:35px;
+
+}
+
+
+#product_nav_item
+{
+  box-sizing:border-box;
+  width:5%;
+  height:20px;
+  text-align: center;
+  font-size: 16px;
+}
+
+
+#product_nav_item a
+{
+  color: white;
+  text-decoration: none;
+}
+
+
+#product_nav_item:hover
+{
+  background-color:seagreen;
+  font-size: 18px;
+}
+
+
+#brand_pics
+{
+width:150px;
+height: 50px;
+float: left;
+box-sizing: border-box ;
+border: 3px solid black ;
+margin: 29px;
+margin-top:0px;
+}
+
+
+
+#brand_img
+{
+ width:145px;
+ height: 45px;
+
+}
+
+
+#search{
+ width: 400px;
+ height: 28px;
+ float: left;
+ margin-left: 33%;
+ border: 1px solid green;
+ font-size: 16px;
+ padding: 10px;
+ background-image: url(../pics/search.png);
+ background-size: 50px 50px;
+ background-repeat: no-repeat;
+ background-position:right;
+
+}
+

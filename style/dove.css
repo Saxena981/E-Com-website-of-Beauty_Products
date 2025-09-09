@@ -1,0 +1,132 @@
+#loginbody{
+    padding: 0;
+    margin: 0;
+    background-color: aliceblue;
+    
+}
+
+/*Start Dove Products_ section codding*/
+
+
+#search{  /* Search bar */
+    width: 400px;
+    height: 28px;
+    float: left;
+    margin-left: 33%;
+    border: 1px solid green;
+    font-size: 16px;
+    padding: 10px;
+    background-image: url(../pics/search.png);
+    background-size: 50px 50px;
+    background-repeat: no-repeat;
+    background-position:right;
+   
+   }
+
+
+#dove_product_section{
+ width:100%;
+ height:1850px;
+ box-sizing: border-box;
+ padding: 0;
+ margin: 0;
+
+}
+
+
+ #main_box{
+    width: 100%;
+    height: 1850px;
+    float: left;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: darkwhite;
+} 
+
+
+#Box{
+ width: 230px;
+ height:550px;
+ border: 2px solid white;
+ float: left;
+ box-sizing: border-box;
+ background: white;
+ margin-left: 18px;
+ margin-top: 15px;
+ padding: 0px;
+ 
+
+}
+
+#dove_img{
+ width: 230px;
+ height:250px;
+ box-sizing: border-box;
+}
+
+
+.product_name{
+padding: 5px;
+margin: 0;
+color: blue;
+font-size: 17px;
+} 
+
+.price{
+    color: brown;
+    font-size: 21px;
+    padding: 0;
+    margin: 0;
+}
+
+
+#line{
+margin-top: 5px;
+}
+
+
+#product_price{
+color: black;
+padding: 0;
+margin:0 ;
+margin:5px;
+float: left;
+font-family: sans-serif;
+font-size: 14px;
+margin-top: -4px;
+}
+
+#cart{
+    width: 50%;
+    height: 30px;
+    background-color: goldenrod;
+    margin-left: 52px;
+    margin-top: 20px;
+
+}
+
+#buy_product{
+float: right;
+padding: 0;
+margin: 0;
+margin: 5px;
+color: black;
+font-family: sans-serif;
+font-size: 14px;
+margin-top: -4px;
+}
+
+#rupee_logo{
+color: gold;
+font-size: 13px;
+}
+
+
+#shopping_logo{
+color: gold;
+font-size: 13px;
+}
+
+
+/*End Dove Products_ section codding*/

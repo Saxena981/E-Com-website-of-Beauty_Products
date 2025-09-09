@@ -1,0 +1,188 @@
+/*Start homepage codding*/
+
+@charset "utf-8";
+
+
+*{margin: 0px; 
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+#bodyframe{
+width: 100%;
+height: 740px;
+border: 1px black solid;
+background: url(pics/a.jpg);
+background-size:cover ;
+
+animation: stp 10s infinite;
+}
+
+@keyframes stp{
+
+0%{background: url(../pics/newbodypic/a.jpg); background-size:cover ;}  
+/*10%{background: url(../pics/newbodypic/a3.jpeg); background-size:cover ;}  */
+5%{background: url(../pics/newbodypic/a1.jpeg); background-size:cover ;}
+10%{background: url(../pics/newbodypic/b.jpg); background-size:cover ;}
+20%{background: url(../pics/newbodypic/c.jpg); background-size:cover ;}
+30%{background: url(../pics/newbodypic/d.jpg); background-size:cover ;}
+40%{background: url(../pics/newbodypic/e.jpg); background-size:cover ;}
+50%{background: url(../pics/newbodypic/f.jpg); background-size:cover ;}
+60%{background: url(../pics/newbodypic/g.jpg); background-size:cover ;}
+70%{background: url(../pics/newbodypic/a2.jpeg); background-size:cover ;}
+80%{background: url(../pics/newbodypic/i.jpg); background-size:cover ;}
+
+}
+
+
+
+
+body{
+   background-image: url(../pics/beauty.jpg);
+    background-size:100% 730px;
+    padding:0px;
+    margin:0px;
+    background-attachment: fixed;
+
+  
+}
+
+
+/*Start homapage nav codding*/ 
+
+nav{
+  width:100%;
+  height:160px;
+  background-color:rgba(0,0,0,0.6);
+  box-sizing:border-box;
+  padding: 5px;
+  float: left;
+  
+
+}
+
+
+/*End homepage nav codding*/ 
+
+#login
+{
+    color: white;
+    float: left;
+    margin-top: 2px;
+   
+}
+
+
+
+#welcome{
+        font-size:50px;
+        color:white;
+        text-align:center;
+        margin-top:10px;
+}
+
+
+#menu{
+   display: flex;
+   justify-content: center;
+   padding: 10px;
+    
+
+}   
+
+
+
+#nav_item
+{
+  
+  width:10%;
+  height:3px;
+
+  text-align: center;
+  padding: 5px;
+ 
+
+}
+
+
+#nav_item:hover{ 
+  background-color:seagreen; 
+  border-radius: 5px;
+  transition: 0.2s;
+
+}
+
+
+
+a
+{
+  color:white;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+
+
+
+
+/*Start homepage Section codding*/
+
+#Homepage_section
+{
+  width:25%;
+  height:150px;
+  box-sizing: border-box;
+  float:right; 
+  margin-top: -190px;
+  margin-right: 2px;
+
+}
+
+
+
+#logo
+{
+  height:100px;
+  width:26%;
+  box-sizing: border-box;
+  border-width: 5px;
+  border-color: green;
+  border-style: solid;
+  background-color: black;
+  margin-left:170px;
+  margin-top:40px;
+
+}
+
+
+
+
+#logo-text
+{
+  margin: 0;
+  padding:0;
+  font-family: vardana;
+  color:white;
+  font-size:100px;
+  margin-top: -12px;
+  margin-left:11px;
+}
+
+
+
+#domain
+{
+ color:white;
+ font-family: vardana;
+ font-size:30px;
+ margin-left: 142px;
+ margin-top:3px;
+
+
+
+
+   
+
+ }
+
+ /*End homepage Section codding*/

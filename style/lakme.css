@@ -1,0 +1,110 @@
+#loginbody{
+    padding: 0;
+    margin: 0;
+    background-color: aliceblue;
+    
+}
+
+
+#search{  /* Search bar */
+    width: 400px;
+    height: 28px;
+    float: left;
+    margin-left: 33%;
+    border: 1px solid green;
+    font-size: 16px;
+    padding: 10px;
+    background-image: url(../pics/search.png);
+    background-size: 50px 50px;
+    background-repeat: no-repeat;
+    background-position:right;
+   
+   }
+
+
+
+#lakmeproduct_section{
+    width:100%;
+    height:1850px;
+    border:solid 1px white;
+    float: left;
+    box-sizing: border-box;
+
+}
+
+
+#lakme_products{
+    width: 100%;
+    height: 1850px;
+    float: left;
+    box-sizing: border-box;
+    margin: 0;
+    background-color: darkwhite;
+}
+
+
+
+
+#lakme_products_pic{
+    width: 200px;
+    height:280px;
+    border: 2px solid white;
+    float: left;
+    box-sizing: border-box;
+    margin: 25px;
+    background-color: white;
+
+}
+
+
+
+#product_name{
+color: black;
+font-family: sans-serif;
+padding: 0;
+margin:0;
+text-align: center;
+font-size: 14px;
+    
+    }
+    
+    #line{
+    margin-top: 5px;
+    }
+    
+    
+    #product_price{
+        color: black;
+        padding: 0;
+        margin:0 ;
+        margin:5px;
+        float: left;
+        font-family: sans-serif;
+        font-size: 14px;
+        margin-top: -4px;
+    
+    }
+    
+    
+    #buy_product{
+    float: right;
+    padding: 0;
+    margin: 0;
+    margin: 5px;
+    color: black;
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-top: -4px;
+    
+    }
+    
+    #rupee_logo{
+    color: gold;
+    font-size: 13px;
+    }
+    
+    
+    #shopping_logo{
+    color: gold;
+    font-size: 13px;
+    }
